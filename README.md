@@ -7,7 +7,7 @@
 
 <hr>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,git,js,cs,php,mysql,github,gitlab,vscode,visualstudio,windows" 
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,git,js,php,mysql,github,gitlab,vscode,visualstudio,windows" 
 
  </p>
 
