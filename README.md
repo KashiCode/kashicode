@@ -4,8 +4,6 @@
 <h3 align="center">Mobile app Developer 📱| Software Engineer 🌐🛠️| Backend Developer 👨‍💻</h3>
 <p align="left">
 
-<h3 align="left">My Resume : <a href="https://azure-constanta-25.tiiny.site" target="blank"><img align="center" src="cv1.gif" alt="karem saad" height="50" width="50" /></a></h3>
-
 
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
