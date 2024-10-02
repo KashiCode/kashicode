@@ -10,7 +10,7 @@
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,firebase,bootstrap,html,css,vscode,figma,git,js,postman,cs,php,mysql,github,gitlab,vscode,visualstudio,windows" 
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,git,js,cs,php,mysql,github,gitlab,vscode,visualstudio,windows" 
 
  </p>
 
