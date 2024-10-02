@@ -4,9 +4,6 @@
 <h3 align="center">Mobile app Developer 📱| Software Engineer 🌐🛠️| Backend Developer 👨‍💻</h3>
 <p align="left">
 
-<a href="https://fb.com/banel.reshl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karem sd" height="30" width="40" /></a>
-<a href="https://instagram.com/karem.sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karem.sd" height="30" width="40" /></a>
-</p>
 <h3 align="left">My Resume : <a href="https://azure-constanta-25.tiiny.site" target="blank"><img align="center" src="cv1.gif" alt="karem saad" height="50" width="50" /></a></h3>
 
 
